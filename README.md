@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-
-**hirohido/hirohido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 ![gitartwork](gitartwork.svg)
-
 
 - 🔭 I’m currently working on things you can't understand
 - 🌱 I’m currently learning stuff you can't learn
