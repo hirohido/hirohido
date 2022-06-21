@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-- 🔭 I’m currently working - on some crayz sci-fi stuff
+- 🔭 I’m currently working - on some crazy sci-fi stuff
 - 🌱 I’m currently learning - stuff you can't learn
 - 👯 I’m looking to collaborate on - projects that deserve me
 - 🤔 I’m looking for help with - nothing
